@@ -23,6 +23,12 @@ This Go project mainly uses:
 
 This project mainly follows a RESTful API design.
 
+## Development
+For developers, please refer to `docker-compose.yaml` file to setup the development environment, including redis, postgres and nats.
+
+You can copy `.env.example` to `.env` and edit it to setup your own environment.
+
+
 ## Maintainers
 
 This project has mainly being maintained by the following contributors (in alphabetical order):
